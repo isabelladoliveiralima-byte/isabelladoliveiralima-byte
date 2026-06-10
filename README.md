@@ -23,11 +23,6 @@ Sou apaixonada por tecnologia, suporte técnico e infraestrutura de TI. Atualmen
 
 ---
 
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
----
-
 ## 💼 Experiência
 
 ### Estagiária de TI - IFAL
