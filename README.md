@@ -19,7 +19,14 @@ Sou apaixonada por tecnologia, suporte técnico e infraestrutura de TI. Atualmen
 ---
 
 ## GitHub Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Isabelladolima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isabelladolima&theme=graywhite&hide_border=true)
+
+---
+
+## Linguagens 
+![Isabelladolima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelladolima&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+
+---
 
 ## 💼 Experiência
 
