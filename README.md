@@ -19,9 +19,7 @@ Sou apaixonada por tecnologia, suporte técnico e infraestrutura de TI. Atualmen
 ---
 
 ## GitHub Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isabelladoliveiralima-byte&theme=meta-light&border_radius=6&locale=pt_BR)](https://git.io/streak-stats)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 ## 💼 Experiência
 
