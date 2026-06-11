@@ -6,11 +6,11 @@ Suporte Técnico | Help Desk | Infraestrutura de TI | Redes de Computadores
 
 ## Sobre mim
 
-- 🎓 Técnica em Desenvolvimento de Sistemas - IFAL
-- 🖥️ Experiência em Suporte Técnico e Help Desk
-- 🌐 Redes e Infraestrutura
-- 🖥️ Conhecimentos em Windows e Ubuntu
-- 🔧 Manutenção preventiva e corretiva de computadores
+- Técnica em Desenvolvimento de Sistemas - IFAL
+- Experiência em Suporte Técnico e Help Desk
+- Redes e Infraestrutura
+- Conhecimentos em Windows e Ubuntu
+- Manutenção preventiva e corretiva de computadores
 
 ---
 ## Experiência
