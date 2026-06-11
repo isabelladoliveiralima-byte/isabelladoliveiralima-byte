@@ -1,34 +1,19 @@
-# Olá! Eu sou a Isabella Lima 👋
+# Olá! Eu sou Isabella Lima 👋
 
-💻 Técnica em Desenvolvimento de Sistemas pelo Instituto Federal de Alagoas (IFAL).
+💻 Técnica em Desenvolvimento de Sistemas (IFAL)
 
-Sou apaixonada por tecnologia, suporte técnico e infraestrutura de TI. Atualmente busco oportunidades para desenvolver minhas habilidades, adquirir experiência prática e contribuir com soluções que facilitem a vida das pessoas através da tecnologia.
+Suporte Técnico | Help Desk | Infraestrutura de TI | Redes de Computadores
 
----
-
-## 🚀 Sobre mim
+## Sobre mim
 
 - 🎓 Técnica em Desenvolvimento de Sistemas - IFAL
 - 🖥️ Experiência em Suporte Técnico e Help Desk
 - 🌐 Redes e Infraestrutura
 - 🖥️ Conhecimentos em Windows e Ubuntu
 - 🔧 Manutenção preventiva e corretiva de computadores
-- 📚 Sempre aprendendo novas tecnologias
-- 📍 Maceió - AL, Brasil
 
 ---
-
-## GitHub Status
-![Isabelladolima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isabelladolima&theme=graywhite&hide_border=true)
-
----
-
-## Linguagens 
-![Isabelladolima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelladolima&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
-
----
-
-## 💼 Experiência
+## Experiência
 
 ### Estagiária de TI - IFAL
 - Atendimento e suporte aos usuários
@@ -67,23 +52,40 @@ Sou apaixonada por tecnologia, suporte técnico e infraestrutura de TI. Atualmen
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
+## Linguagens 
+![Isabelladolima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelladolima&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
-## 🎯 Áreas de Interesse
+---
+## GitHub Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isabelladolima&show_icons=true&theme=graywhite&hide_border=true)
+
+---
+
+## Projetos em Desenvolvimento
+
+Atualmente desenvolvendo soluções voltadas para:
+
+- Inteligência Artificial aplicada à acessibilidade
+
+## Áreas de Interesse
 
 - Suporte Técnico
 - Help Desk
 - Infraestrutura de TI
 - Redes de Computadores
 - Segurança da Informação
+- Sistemas Operacionais Linux
+- Computação em Nuvem
 - Desenvolvimento de Sistemas
-- Inteligência Artificial
 
-## 📫 Contato
+--- 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isabella%20Lima-blue?style=for-the-badge&logo=linkedin)](in/isabella-lima-69a86b383)
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isabella%20Lima-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isabelladolima/)
 
 📧 isabelladoliveiralima@gmail.com
 
 ---
 
-⭐ Sempre aberta a aprender, colaborar e crescer profissionalmente.
+Interessada em oportunidades de estágio, trainee e posições júnior nas áreas de Suporte Técnico, Infraestrutura, Redes e Tecnologia da Informação.
