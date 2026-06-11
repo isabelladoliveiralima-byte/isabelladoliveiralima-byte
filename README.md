@@ -63,7 +63,7 @@ Suporte Técnico | Help Desk | Infraestrutura de TI | Redes de Computadores
 
 ## Projetos em Desenvolvimento
 
-Atualmente desenvolvendo soluções voltadas para:
+Atualmente estou iniciando um projeto voltado para:
 
 - Inteligência Artificial aplicada à acessibilidade
 
