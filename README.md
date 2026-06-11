@@ -29,7 +29,7 @@ Suporte Técnico | Help Desk | Infraestrutura de TI | Redes de Computadores
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
